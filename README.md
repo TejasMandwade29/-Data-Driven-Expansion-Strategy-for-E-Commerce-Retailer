@@ -1,48 +1,17 @@
-This Power BI project analyzes sales data for a retail company to provide actionable insights for business expansion and optimization. The dashboard helps leadership make data-driven decisions about seasonal planning, customer retention, and international market expansion.
+ Retail Data Analysis**
 
-Business Objectives
-Identify seasonal revenue trends for better inventory planning
+**Project Overview**
+Power BI dashboard analyzing sales data to drive retail expansion strategy and business optimization.
 
-Pinpoint top international markets for expansion
+**Key Insights**
+- Identified 25% November revenue surge for inventory planning
+- Pinpointed top European markets (Netherlands, Germany) for expansion
+- Ranked top 10 customers for retention programs
+- Visualized global demand through heatmap analysis
 
-Recognize highest-value customers for retention programs
+**Files**
+- Retail_Analysis.pbix (Power BI dashboard)
+- Cleaned_Sales_Data.csv
 
-Analyze global product demand patterns
-
-Key Features
-Data Cleaning: Removed invalid entries (negative quantities/prices)
-
-Interactive Dashboard: Four focused visualizations
-
-Strategic Insights: Clear answers to executive questions
-
-Expansion Planning: Data-driven market targeting
-
-Files Included
-retail_analysis.pbix - Main Power BI dashboard
-
-dataset.csv - Cleaned sales data (2011)
-
-project_summary.pdf - Business insights document
-
-How to Use
-Open retail_analysis.pbix in Power BI
-
-Navigate through different tabs for each analysis:
-
-Seasonal Trends: Monthly revenue for 2011
-
-Top Markets: Best-performing countries (excl. UK)
-
-VIP Customers: Highest-revenue clients
-
-Global Demand: Worldwide product demand heatmap
-
-Insights Delivered
-25% revenue surge in November → Plan holiday inventory
-
-Netherlands & Germany → Top expansion targets
-
-Top 10 customers → Focus retention efforts
-
-European markets → Highest growth potential
+**Usage**
+Open in Power BI to explore seasonal trends, top markets, VIP customers, and global demand patterns.
